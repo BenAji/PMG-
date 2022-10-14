@@ -1,0 +1,11 @@
+Row_Number,Rank,Dense_Rank,revenue,state
+1,1,1,234234,California
+2,2,2,45235,"New York"
+3,3,3,3423,Texas
+4,4,4,3245,"New York"
+5,5,5,2354,Texas
+6,6,6,2342,Texas
+7,6,6,2342,"New York"
+8,8,7,423,Texas
+9,9,8,420,Texas
+10,9,8,420,Texas
